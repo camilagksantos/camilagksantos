@@ -1,16 +1,16 @@
 <div align="center">
 
-# Camila Kfouri
+# 👋 Camila Kfouri
 
 ### Junior Software Developer
 
-**Java · Spring Boot · Angular · Full Stack**
+**Java • Spring Boot • Angular • Full Stack**
 
 📍 Braga, Portugal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-kfouri/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilagksantos)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfouri.camila@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-kfouri/)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilagksantos)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfouri.camila@gmail.com)
 
 </div>
 
@@ -18,11 +18,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Junior Software Developer** focused on building web applications and backend services using Java and modern development practices.
+I'm a **Junior Software Developer** focused on **Java, Spring Boot, Angular and Full-Stack development**.
 
-I'm currently deepening my skills in **Java, Spring Boot and Angular**, with a strong interest in backend and full-stack development, software architecture, clean code, testing and scalable application design.
+Originally from Brazil, I have a background in Law and transitioned into software development after moving to Portugal. I enjoy solving problems through technology, building practical applications and continuously expanding my technical knowledge.
 
-I enjoy learning through practical projects and turning software engineering concepts into real applications.
+I'm currently looking for my **first professional opportunity in software development**, where I can contribute, learn from an experienced team and continue growing as a developer.
+
+🏢 Open to **onsite, hybrid or remote opportunities**.
 
 ---
 
@@ -30,229 +32,230 @@ I enjoy learning through practical projects and turning software engineering con
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Databases & Messaging
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1D4ED8?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-09476B?style=flat)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-### Tools & Practices
+### Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Architecture & Practices**
-
-`Hexagonal Architecture` · `Layered Architecture` · `REST APIs` · `CRUD`
-`OAuth2` · `JWT` · `JPA/Hibernate` · `Flyway` · `RabbitMQ`
-`Unit Testing` · `Integration Testing` · `E2E Testing` · `OpenAPI`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit%205-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Personal Finance Manager
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Backend service for managing personal finances, accounts, transactions and financial reports.
+<h3>🛒 Order Flow</h3>
 
-Built with **Spring Boot and Hexagonal Architecture**, with a strong focus on clean separation between the domain and infrastructure.
+<p><i>Full-stack e-commerce & asynchronous order processing</i></p>
 
-**Highlights**
+<b>Java · Spring Boot · Angular · RabbitMQ · MySQL · Docker</b>
 
-- Hexagonal Architecture (Ports & Adapters)
-- OAuth2 with Spring Authorization Server
-- PostgreSQL and H2
-- External user provider integration
-- PDF report generation with JasperReports
-- Flyway database migrations
-- OpenAPI / Swagger documentation
-- Unit, integration and E2E testing
-- Testcontainers
+<br><br>
 
-**Technologies:**  
-`Java` `Spring Boot` `PostgreSQL` `H2` `OAuth2` `JPA` `Flyway` `OpenFeign` `MapStruct` `JasperReports`
+<b>Key Features</b>
 
-[🔗 View repository](https://github.com/camilagksantos/personal-finance-manager)
+🔹 Hexagonal Architecture  
+🔹 Transactional Outbox  
+🔹 Async Processing  
+🔹 Idempotency & DLQ
 
----
+<br><br>
 
-### 📦 Order Flow
+<a href="https://github.com/camilagksantos/order-flow">🔗 View Project</a>
 
-Full-stack e-commerce application focused on **hexagonal architecture, event-driven processing and asynchronous workflows**.
+</td>
 
-The system covers the order lifecycle from product catalog and cart management through checkout, payment processing, stock control and notifications.
+<td width="50%" valign="top">
 
-**Highlights**
+<h3>💰 Personal Finance Manager</h3>
 
-- Hexagonal Architecture
-- Event-driven architecture
-- RabbitMQ messaging
-- Transactional Outbox Pattern
-- Idempotent event processing
-- Dead Letter Queue
-- Order state machine
-- Angular frontend
-- Async workflows
-- Unit, integration and E2E testing
+<p><i>Backend service for personal finance management</i></p>
 
-**Technologies:**  
-`Java` `Spring Boot` `Angular` `MySQL` `RabbitMQ` `JPA` `Flyway` `RxJS` `NgRx Signals` `Tailwind CSS`
+<b>Java · Spring Boot · PostgreSQL · OAuth2 · Docker</b>
 
-[🔗 View repository](https://github.com/camilagksantos/order-flow)
+<br><br>
 
----
+<b>Key Features</b>
 
-### 🎓 Colibri School Management System
+🔹 Hexagonal Architecture  
+🔹 OAuth2 / Authorization Server  
+🔹 JasperReports PDF generation  
+🔹 Unit & Integration Testing
 
-A complete school management system designed to centralize and manage different areas of a school environment.
+<br><br>
 
-The application includes role-based access and business rules for different users, including **students, teachers and employees**, with dedicated access according to the authenticated user's role.
+<a href="https://github.com/camilagksantos/personal-finance-manager">🔗 View Project</a>
 
-**Highlights**
+</td>
+</tr>
 
-- Student management
-- Class management
-- Teacher and employee management
-- Role-based access
-- Authentication and authorization
-- Business rules based on user roles
-- REST APIs
-- Data validation
-- Database migrations
-- API documentation with OpenAPI
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:**  
-`Java` `Spring Boot` `Spring Data JPA` `MySQL` `Spring Security` `JWT` `Flyway` `MapStruct` `OpenAPI`
+<h3>🏫 Colibri School Management</h3>
 
-[🔗 View repository](https://github.com/camilagksantos/gestaoColegioColibri)
+<p><i>School management system</i></p>
 
----
+<b>Java · Spring Boot · MySQL · Spring Security · JWT</b>
 
-### 🎓 Course Management API
+<br><br>
 
-RESTful API for managing online courses and lessons.
+<b>Key Features</b>
 
-The project implements complete CRUD operations, pagination, soft delete, validation and course-lesson relationships using a layered architecture.
+🔹 Student & Class Management  
+🔹 Role-Based Access  
+🔹 JWT Authentication  
+🔹 Flyway Migrations
 
-**Highlights**
+<br><br>
 
-- RESTful API
-- CRUD operations
-- Server-side pagination
-- Soft delete
-- Course and lesson management
-- Bean Validation
-- DTO pattern
-- Global exception handling
-- One-to-Many relationships
-- H2 database
-- Automated testing
+<a href="https://github.com/camilagksantos/gestaoColegioColibri">🔗 View Project</a>
 
-**Technologies:**  
-`Java 21` `Spring Boot 3` `Spring Data JPA` `H2` `Maven`
+</td>
 
-[🔗 View repository](https://github.com/camilagksantos/course-crud-spring)
+<td width="50%" valign="top">
+
+<h3>📚 Course Management</h3>
+
+<p><i>Full-stack course management application</i></p>
+
+<b>Spring Boot · Java · Angular · TypeScript · H2</b>
+
+<br><br>
+
+<b>Key Features</b>
+
+🔹 REST API + Angular Frontend  
+🔹 Course & Lesson CRUD  
+🔹 Reactive Forms & Validation  
+🔹 Pagination & Soft Delete
+
+<br><br>
+
+<a href="https://github.com/camilagksantos/course-crud-spring">🔗 Backend</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/camilagksantos/course-crud-angular">Frontend</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🅰️ Course Management Web App
+## 💡 How I Work
 
-Modern web application built with **Angular 20** for managing courses and lessons.
+<table>
+<tr>
+<td width="33%" align="center">
 
-The project focuses on reactive programming, dynamic forms, validation and a responsive Material Design interface.
+### 🧹 Clean Code
 
-**Highlights**
+Readable, maintainable and well-structured code.
 
-- Complete CRUD operations
-- Angular Reactive Forms
-- Dynamic FormArrays
-- Real-time validation
-- Server-side pagination
-- Angular Material
-- RxJS reactive programming
-- HTTP API integration
-- Route guards and resolvers
-- Responsive design
-- Unit and E2E testing
+</td>
 
-**Technologies:**  
-`Angular 20` `TypeScript` `Angular Material` `RxJS` `Reactive Forms` `HttpClient`
+<td width="33%" align="center">
 
-[🔗 View repository](https://github.com/camilagksantos/course-crud-angular)
+### 🧪 Testing
+
+Automated tests focused on important application behavior.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏗️ Architecture
+
+Clear separation of responsibilities and appropriate design patterns.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### 🔀 Git Workflow
+
+Branches, commits, pull requests and collaborative development.
+
+</td>
+
+<td width="33%" align="center">
+
+### 📚 Continuous Learning
+
+Constantly expanding my knowledge through study and practice.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔧 Practical Projects
+
+Learning by building real applications and solving practical problems.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously improving my skills in:
-
-- Full Stack development
-- Java and Spring Boot
-- Angular and TypeScript
-- Software architecture
-- Automated testing
-- Docker and containerization
-- Observability and application monitoring
-- Distributed systems and asynchronous processing
+`Advanced Java & Spring Boot` · `Angular & Reactive Programming` · `Software Architecture` · `Automated Testing` · `Docker` · `Observability`
 
 ---
 
 ## 💼 Open to Work
 
-I'm currently looking for opportunities as a:
+I'm looking for a **Junior Software Developer** opportunity focused on:
 
-**Junior Software Developer**  
-**Java Developer**  
-**Java + Angular Developer**  
-**Junior Full Stack Developer**
+**Java · Spring Boot · Angular · Full-Stack Development**
 
-I'm particularly interested in positions involving:
+📍 **Braga · Porto · Portugal**
 
-`Java` · `Spring Boot` · `Angular` · `REST APIs` · `SQL`
+🏢 Open to **onsite, hybrid or remote opportunities**.
 
-📍 **Braga and Porto Metropolitan Area**
-
-🏢 Open to **onsite, hybrid or remote** opportunities.
+If you're looking for a motivated junior developer who enjoys learning and building real projects, feel free to connect with me.
 
 ---
-
-## 👋 GitHub
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=camilagksantos&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with other developers, learning from the community, discussing technology and exploring new professional opportunities.
+I'm always open to connecting with other developers, learning from the community, discussing technology and exploring professional opportunities.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-kfouri/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-My_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilagksantos)
-
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfouri.camila@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-kfouri/)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilagksantos)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfouri.camila@gmail.com)
 
 </div>
 
@@ -260,6 +263,6 @@ I'm always open to connecting with other developers, learning from the community
 
 <div align="center">
 
-### Building, learning and improving — one project at a time. 🚀
+**Building, learning and improving — one project at a time. 🚀**
 
 </div>
